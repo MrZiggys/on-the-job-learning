@@ -13,7 +13,7 @@ Overall idea can be seen from image below:
 
 Plan for saving game related data.
 
-![Mr.Coin Data saving](./Data.png)
+![Mr.Coin Data saving](./Data.jpg)
 
 ## Example demo game
 Here is the example game
