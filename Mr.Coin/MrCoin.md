@@ -9,7 +9,11 @@ You can also purchase upgrades and explore additional features.
 
 Overall idea can be seen from image below:
 
-![Mr.Coin game ide](./Mr.Coin-game-plan.png)
+![Mr.Coin game plan](./Mr.Coin-game-plan.png)
+
+Plan for saving game related data.
+
+![Mr.Coin Data saving](./Data.png)
 
 ## Example demo game
 Here is the example game
