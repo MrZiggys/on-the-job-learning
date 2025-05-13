@@ -14,6 +14,6 @@ Overall idea can be seen from image below:
 ## Example demo game
 Here is the example game
 
-![Example game](./Slot-demo-end.png)
+![Example game](./Slot-demo-end.jpg)
 
 
